@@ -26,6 +26,10 @@ Para ello vamos a usar el API de Google Spreadsheets para leer este mensaje desd
 
 Se puede ir a la documentación del API en la guía de inicio rápido [Aguí](https://developers.google.com/sheets/api/quickstart/nodejs)
 
+Si ya has creado credenciales de acceso las puedes descargar de [acá](https://console.cloud.google.com/apis/credentials)
+
+![credenciales](media/DownloadCredentiasl.png)
+
 ### Liberíaas a usar
 
 Para comunicarnos con la hoja de cálculo vamos a instalar esta libería en el proyecto:
